@@ -1,0 +1,8 @@
+name = "Farmer's Delight Refabricated"
+filename = "farmers-delight-refabricated-26.2-3.6.26.jar"
+side = "both"
+
+[download]
+url = "https://api.modrinth.com/maven/maven/modrinth/farmers-delight-refabricated/26.2-3.6.26/farmers-delight-refabricated-26.2-3.6.26.jar"
+hash-format = "sha512"
+hash = "86a94c36e02081d6c24f47d53e103c80e915e500a9f92536ceaf6af916ac083e5458a48fc8bff2ebfb44d449b51d1a32d2a7c2c8e3d057f997de99147ace3bc6"
