@@ -11,5 +11,5 @@ hash = "9ba07f4c557bf90e2a5d7c6dc1b8b8a7d48051d40d2b7f27a65518223c64e9f4"
 metafile = true
 
 [[files]]
-file = "mods/Log_ServerMod-0.6.0.jar"
-hash = "8116f2dbe80860f1fd8d5f681d6aef3322c7e0b171f147f7461e8e7cb08db20f"
+file = "mods/Log_ServerMod-0.8.0.jar"
+hash = "5f7e0e4f4b7dbe7134c7d659e4d718ab83a433ce48391ef343c1c02bbe1b6c08"
