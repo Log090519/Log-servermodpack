@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "5c15a7dde9d9c78d9e2690fe5e52aa44a10f782ad1338d38e45530932f3d4a27"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "5c1a62a7caf2a2084acf40e05242f41c730d4848aea2817595922e6995d9fd41"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "157e33ac75a48a7623ff36507fabb5a79553ca4dab0f09a8a9bb60def6975233"
 metafile = true
@@ -11,5 +21,25 @@ hash = "9ba07f4c557bf90e2a5d7c6dc1b8b8a7d48051d40d2b7f27a65518223c64e9f4"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "e782681520724a94fe7a3d66ef91bbbf373f05cac23a75d82ff2955065af9c0e"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "341f508840ae4626c7c6f1446d0040809ac48c53382462c544cf6e39b6faf36a"
+metafile = true
+
+[[files]]
 file = "mods/Log_ServerMod-0.20.0.jar"
 hash = "c1944bf6d3db7da3ce7abbdd690b97c815b6c7d9c91d754a40b9d9316896509b"
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "3629e81a452e108a9b2325a2522092ddb9196d5fb7e8b5c74a51ec0f265a705b"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "03caa26987ea39d751a0520396449a5285ca4348d428d31989375f5e4b93063e"
+metafile = true
