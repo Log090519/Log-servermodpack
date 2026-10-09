@@ -1,12 +1,12 @@
 name = "Log Server"
 author = "log090519"
-version = "0.3.0"
+version = "0.4.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "25b16e6a50ee1b66d658da847e917e6fc64f238fe295e567b3d2b2efc26d5de3"
+hash = "c66343bf883ab06d2e063a7fc9af74eb54f6534479ca4030fff1724764cc9af1"
 
 [versions]
 minecraft = "26.2"
