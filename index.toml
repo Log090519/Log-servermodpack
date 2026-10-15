@@ -31,8 +31,8 @@ hash = "341f508840ae4626c7c6f1446d0040809ac48c53382462c544cf6e39b6faf36a"
 metafile = true
 
 [[files]]
-file = "mods/Log_Perf-0.15.2.jar"
-hash = "278ddc47d7be96302e836cfe24b7761680a5a00d5b630f124b10d56c08469f30"
+file = "mods/Log_Perf-0.15.3.jar"
+hash = "e441e15a4b770ece5134ab3ebbbb2698a7490c8bf2c122c8a42b3debf71d4dfd"
 
 [[files]]
 file = "mods/Log_ServerMod-0.8.15.jar"
