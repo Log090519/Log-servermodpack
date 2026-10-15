@@ -31,12 +31,12 @@ hash = "341f508840ae4626c7c6f1446d0040809ac48c53382462c544cf6e39b6faf36a"
 metafile = true
 
 [[files]]
-file = "mods/Log_Perf-0.16.0.jar"
-hash = "6d8a14c7664ee33b1fa7e6bac66a31f3b917f26ad122d717655181916e95d618"
+file = "mods/Log_Perf-0.5.0.jar"
+hash = "c10dbefba275f13e0f0ada1817e3c6fa141f7cdc1b223dc7e3efbb9226b778d1"
 
 [[files]]
-file = "mods/Log_ServerMod-0.8.15.jar"
-hash = "8b743378cda74d54de54477e6d5b3dd3e797e52bfde482f2c88f305630074914"
+file = "mods/Log_ServerMod-0.9.0.jar"
+hash = "28ae3c9e01bd70c76f951a1aa2256eaaf11d4ef21cfd856fac34a290ef139cf0"
 
 [[files]]
 file = "mods/moreculling.pw.toml"
