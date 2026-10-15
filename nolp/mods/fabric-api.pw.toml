@@ -1,0 +1,8 @@
+name = "Fabric API"
+filename = "fabric-api-0.160.0+26.2.jar"
+side = "both"
+
+[download]
+url = "https://maven.fabricmc.net/net/fabricmc/fabric-api/fabric-api/0.160.0+26.2/fabric-api-0.160.0+26.2.jar"
+hash-format = "sha512"
+hash = "1a08b68b2c2c90f6005ef441ab71b65f464be964005b9c0d18e6fc6c5ec53fe346e7dd76189c4f09ade59ef9bc3b836376a2cc71d4ce6e9be47122477d1bbd1e"
