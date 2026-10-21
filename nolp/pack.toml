@@ -1,12 +1,12 @@
 name = "Log Server (Log Perf 없음)"
 author = "log090519"
-version = "0.9.2"
+version = "0.9.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "98e18bb756268b37436fdff8e1427c31ae9a9d92da24fd8c79a5b918f2676944"
+hash = "9f5ac2e1c2b6956385e2d56da7069ea1de5e9f11ec47f2b464403d58c5abc893"
 
 [versions]
 minecraft = "26.2"
