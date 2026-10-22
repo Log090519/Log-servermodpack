@@ -31,6 +31,11 @@ hash = "341f508840ae4626c7c6f1446d0040809ac48c53382462c544cf6e39b6faf36a"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "34d2a5dd6a7aafb3b7c423790936960ab75f723a82e9428398c22362d17fd541"
+metafile = true
+
+[[files]]
 file = "mods/Log_Perf-0.5.0.jar"
 hash = "c10dbefba275f13e0f0ada1817e3c6fa141f7cdc1b223dc7e3efbb9226b778d1"
 
