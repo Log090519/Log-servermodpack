@@ -31,8 +31,8 @@ hash = "341f508840ae4626c7c6f1446d0040809ac48c53382462c544cf6e39b6faf36a"
 metafile = true
 
 [[files]]
-file = "mods/Log_ServerMod-0.9.5.pw.toml"
-hash = "3a6b332ca580074be09d41837a603b5ebee6faf0cef5103e4c5985259a3fdb8c"
+file = "mods/Log_ServerMod-0.9.6.pw.toml"
+hash = "6e1de367fdf5cc61fbbae925b73c7945d51638c523d599de0c2d333422c80b38"
 metafile = true
 
 [[files]]
