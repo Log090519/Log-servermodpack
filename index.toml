@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/Log_ServerMod-1.0.0.jar"
-hash = "d2908319062d7d86bb791abf0c50b52c026d55827e8a0ec7956e8bd33ca12e44"
+hash = "92dad6dddba65a414b29e1897d7ac123f4b2520ae9eccf3441f256e4899c16d5"
 
 [[files]]
 file = "mods/moreculling.pw.toml"
