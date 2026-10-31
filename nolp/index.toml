@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/Log_ServerMod-1.0.0.pw.toml"
-hash = "60a8ce58ce6e2bc8c33424bea4df789adbe43fa47db02e8dd0bfa5befce6e6b2"
+hash = "eda82bc4b73746b23a31a0957f7fb984fe0c8a6372188789810de30176246fda"
 metafile = true
 
 [[files]]
