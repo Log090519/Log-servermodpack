@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://log090519.github.io/Log-servermodpack/mods/Log_ServerMod-1.0.0.jar"
 hash-format = "sha512"
-hash = "d480c39577eb37a5aebe55275a296b14fe69b2461bfa066d4abce7472ef6ff3daedb77968d1005ef39c804e9a1252e0b81ec6b2a55c356aa98fa98c2b694e13e"
+hash = "97c7251ee2eddf410017a19cf2d1f22a2e47aa210f509eddb246ee1e905bd74ed269ce56431042fc2df9e6a0616ab231ee98e5696ef46ff0cfe543deb9eb5be8"
