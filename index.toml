@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/Log_ServerMod-1.4.1.jar"
+hash = "30c9ee8eabc863acc102c816f595578d5f452a1267728a6ad8795ce52a737b79"
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "5c15a7dde9d9c78d9e2690fe5e52aa44a10f782ad1338d38e45530932f3d4a27"
 metafile = true
@@ -39,10 +43,6 @@ metafile = true
 file = "mods/koreanify.pw.toml"
 hash = "3b6674e50b479e2d1b418fdc08589ff3d5e8ccb12c4ecff118439a9a7ca1706c"
 metafile = true
-
-[[files]]
-file = "mods/Log_ServerMod-1.4.0.jar"
-hash = "c43851893e4bcdbfc0e104175c249f208fa9d0ba5d9a8a6a804d2f1605962875"
 
 [[files]]
 file = "mods/moreculling.pw.toml"
