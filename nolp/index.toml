@@ -36,8 +36,13 @@ hash = "34d2a5dd6a7aafb3b7c423790936960ab75f723a82e9428398c22362d17fd541"
 metafile = true
 
 [[files]]
-file = "mods/Log_ServerMod-1.3.1.pw.toml"
-hash = "2bdc3db7535f1f7bcb2d1ea830586e5763a20da4c7b45b61c8262921f8123363"
+file = "mods/koreanify.pw.toml"
+hash = "3b6674e50b479e2d1b418fdc08589ff3d5e8ccb12c4ecff118439a9a7ca1706c"
+metafile = true
+
+[[files]]
+file = "mods/Log_ServerMod-1.4.0.pw.toml"
+hash = "b134a4831ce9fc0569566962d782d67f56c3959fccfa8630d20127054f761e21"
 metafile = true
 
 [[files]]
