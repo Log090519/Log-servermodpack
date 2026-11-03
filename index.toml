@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/Log_ServerMod-1.4.1.1.jar"
-hash = "f90255c90e9f887ccb9222f62cffa2da31e03fdc98611953a73d757add165030"
+file = "mods/Log_ServerMod-1.4.0.1.jar"
+hash = "7852d237e7c8098eefc44d3eb7d7fb9910a88d76f7b5bb3e2ebf8f0b926bfd28"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
