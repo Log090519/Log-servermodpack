@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/Log_ServerMod-1.4.0.1.pw.toml"
-hash = "4d248ac96c6881a01c7c7121559e8fe78a5201cce1fae307a72be38d60e5685f"
+file = "mods/Log_ServerMod-1.4.1.1.pw.toml"
+hash = "d3749f4197be513c9566538f9cc726b6606641c889fa3c7521a068941b79aa88"
 metafile = true
 
 [[files]]
