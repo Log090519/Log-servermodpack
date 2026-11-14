@@ -1,0 +1,8 @@
+name = "Log_ServerMod"
+filename = "Log_ServerMod-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://log090519.github.io/Log-servermodpack/mods/Log_ServerMod-1.5.0.jar"
+hash-format = "sha512"
+hash = "ac28de61777dbf3804ce5332f0615e386c3ec8fbd371a025d5c15bc5db11a66cf117d163a07d35a5ab5c4674521ef098a8b6d2279600f67235b3c263cdfade60"
