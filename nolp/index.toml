@@ -46,13 +46,18 @@ hash = "3b6674e50b479e2d1b418fdc08589ff3d5e8ccb12c4ecff118439a9a7ca1706c"
 metafile = true
 
 [[files]]
-file = "mods/Log_ServerMod-1.5.1.pw.toml"
-hash = "d50b648602610c026c98736571fb4d44f77dc6dd812a6625901c431153f6c800"
+file = "mods/Log_ServerMod-1.6.0.pw.toml"
+hash = "828c5a3260f35670214bd6414100f217a18a13146a1291ed28ce718020ed7b0c"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "3629e81a452e108a9b2325a2522092ddb9196d5fb7e8b5c74a51ec0f265a705b"
+metafile = true
+
+[[files]]
+file = "mods/replaymod.pw.toml"
+hash = "7f5b77e2cd5de819275dfb16d686ea5ca2967adc73e4e3b3d44752d43e76927e"
 metafile = true
 
 [[files]]

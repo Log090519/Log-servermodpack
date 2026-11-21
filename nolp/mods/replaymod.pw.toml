@@ -1,0 +1,8 @@
+name = "Replay Mod"
+filename = "replaymod-26.2-2.6.28.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nv2fQJo5/versions/eHbYuA7P/replaymod-26.2-2.6.28.jar"
+hash-format = "sha512"
+hash = "30141ee0eb65d2f12db46047a586d870df91bf7f732ff8d1d138c759067e6ada5a6c2003b974bbaadcfe0f3489f4652d3d24c994ba435925a3d889c1aa561b8f"
